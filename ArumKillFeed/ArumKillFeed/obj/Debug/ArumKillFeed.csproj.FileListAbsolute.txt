@@ -1,0 +1,4 @@
+C:\Users\qauck\Desktop\Unturned.JPG\Workshop\JIRA\Jira Plugins\73324234\ArumKillFeed\ArumKillFeed\obj\Debug\ArumKillFeed.csproj.AssemblyReference.cache
+C:\Users\qauck\Desktop\Unturned.JPG\Workshop\JIRA\Jira Plugins\73324234\ArumKillFeed\ArumKillFeed\obj\Debug\ArumKillFeed.csproj.CoreCompileInputs.cache
+C:\Users\qauck\Desktop\Arum\ArumKillFeed\ArumKillFeed\obj\Debug\ArumKillFeed.csproj.AssemblyReference.cache
+C:\Users\qauck\Desktop\Arum\ArumKillFeed\ArumKillFeed\obj\Debug\ArumKillFeed.csproj.CoreCompileInputs.cache
